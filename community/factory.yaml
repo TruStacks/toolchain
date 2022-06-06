@@ -1,0 +1,8 @@
+name: community
+version: 0.0.1
+dependencies:
+- catalog: https://github.com/trustacks/components.git
+  components:
+  - vault
+  - concourse
+  - minio
