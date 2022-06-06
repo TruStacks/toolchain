@@ -1,7 +1,7 @@
 name: community
 version: 0.0.1
 dependencies:
-- catalog: https://github.com/trustacks/components.git
+- catalog: http://trustacks-catalog.eastus2.azurecontainer.io:8080/.well-known/catalog-manifest
   components:
   - vault
   - concourse
