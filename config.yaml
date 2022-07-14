@@ -1,4 +1,6 @@
 dependencies:
 - catalog: http://trustacks-catalog.eastus2.azurecontainer.io
   components:
+  - authentik
   - concourse
+
