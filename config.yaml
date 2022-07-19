@@ -3,4 +3,4 @@ dependencies:
   components:
   - authentik
   - concourse
-
+  - argo-cd
